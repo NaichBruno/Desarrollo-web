@@ -1,0 +1,32 @@
+body {
+    background-image: url("img-trivia/riverfondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1, p, h3 {
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+
+table {
+    border: 1px solid #000;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
+
+.btn-jugar {
+    color: #1a73e8;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
